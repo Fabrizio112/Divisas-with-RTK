@@ -3,7 +3,7 @@
 ## <i align="center" style="font-size:2rem">💸 Comparador y Calculador de Divisas con RTK Query</i>
 
 En este proyecto se usaron hooks como **useState,useEffect,useContext** , tenologias como  **HTML,CSS,JavaScript,React,SASS,Bootstrap**, para el manejo de rutas **React Router**, para el manejo de estados **Redux**
-y para el manejo de estados asincronos **RTK Query**
+y para el manejo de estados asincronos **RTK Query**.
 
  _Este proyecto fue construido con el proposito de practicar Redux y RTK Query_
 
